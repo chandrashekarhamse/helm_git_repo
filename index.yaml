@@ -3,7 +3,7 @@ entries:
   githelmchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-22T22:22:20.5818949+05:30"
+    created: "2020-08-22T22:32:02.0246747+05:30"
     description: A Helm chart for githelmchart
     digest: 5d4da16078a683bdcce791ba73f2ee540066744e3a9c04aadbf8f5c5402bea9a
     name: githelmchart
@@ -11,4 +11,15 @@ entries:
     urls:
     - githelmchart-0.1.0.tgz
     version: 0.1.0
-generated: "2020-08-22T22:22:20.5760331+05:30"
+  wordchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-08-22T22:32:02.025651+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 3917033cc9c205d2e057fff59899b67f8a9919b41e3c1ffac165baa474c1e466
+    name: wordchart
+    type: application
+    urls:
+    - wordchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-08-22T22:32:02.0236991+05:30"
